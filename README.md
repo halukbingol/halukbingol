@@ -2,6 +2,29 @@
 
 ### Hi there 👋
 
+- I am currently working on interactive educational tools. They are developed by JavaScript, SVG, CSS and HTML. I present them in [01pi.com](https://01pi.com).
+  - [cubematic](https://www.01pi.com/cubematic/tool/cubematic-full-ui.html) An interactive tool for Positive and Negative Integers, Positional Notation, Addition and Subtraction.
+  - Youtube videos
+    - [Why positional representation: Addition case](https://www.youtube.com/watch?v=ccyTsEniqLM)
+    - [Addition in base 10 is faster than no base](https://www.youtube.com/watch?v=b_LHcVp8Tps&t=3s)
+
+- I believe we can teach concept of programming to almost anybody. I am working on it:
+  - [Computer Science samples](https://www.01pi.com/0home/computer-science/index.html)
+  - [Variables Part 1: Variables of Primitive Types](https://www.youtube.com/watch?v=dH3IopXEzY8) on youtube
+  - [Primitive Types](https://www.01pi.com/computer-science/CS4All/Java/symbol-table-memory/in-memory-primitive-types.html)
+  - [Array of Primitive Types](https://www.01pi.com/computer-science/CS4All/Java/symbol-table-memory/in-memory-primitive-types-array.html)
+  - [Strings: Very useful objects](https://www.01pi.com/computer-science/CS4All/Java/symbol-table-memory/in-memory-objects-strings.html)
+  - [Simple Objects](https://www.01pi.com/computer-science/CS4All/Java/symbol-table-memory/in-memory-objects.html)
+  - [Object within Objects](https://www.01pi.com/computer-science/CS4All/Java/symbol-table-memory/in-memory-objects-complex.html)
+
+
+- I try to develope a system that imitates teacher presenting material on the board and explains the material with possible some codes, too. 
+  - [Primitive Types: Declaration, initialization and assignment](https://www.01pi.com/computer-science/CS4All/Java/symbol-table-memory/in-memory-primitive-types.html)
+
+- In order to describe things I developed a [generic markdown extender](https://github.com/halukbingol/zintGenericMarkdownExtender) as a public github project.
+
+
+
 <!--
 **halukbingol/halukbingol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -32,10 +56,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 ---
 
