@@ -41,6 +41,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Academic
+
+- I mainly worked on Complex Networks, Complex Systems.
+- [Google scholar](https://scholar.google.com/citations?hl=en&user=NZhnwp4AAAAJ&view_op=list_works)
+- [ORCID](https://orcid.org/0000-0001-7320-7545)
+- [ResearcherID](https://publons.com/researcher/2890698/haluk-o-bingol/)
+- [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=56360233800)
+
+
+
 ---
 
 <!-- <div id="header" align="center">
