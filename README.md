@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-### 01pi
+### 01pi Project
 - I am currently working on interactive educational tools and contents. They are developed by JavaScript, SVG, CSS and HTML. I present them in [01pi.com](https://01pi.com).
   - [cubematic](https://www.01pi.com/cubematic/tool/cubematic-full-ui.html) An interactive tool for Positive and Negative Integers, Positional Notation, Addition and Subtraction.
   - Youtube videos
